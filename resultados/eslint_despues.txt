@@ -1,0 +1,98 @@
+
+C:\Users\ASUS\Desktop\Verificacion y Validacion de Software\Analisis_Estatico_Grupo5\src\app.js
+   21:7    warning  Identifier name 'S' is too short (< 2)                                 id-length
+   35:19   warning  Identifier name 'p' is too short (< 2)                                 id-length
+   39:17   warning  Identifier name 'p' is too short (< 2)                                 id-length
+   39:63   warning  Identifier name 'a' is too short (< 2)                                 id-length
+   39:66   warning  Identifier name 'b' is too short (< 2)                                 id-length
+   40:15   warning  Identifier name 'n' is too short (< 2)                                 id-length
+   49:17   warning  Identifier name 'n' is too short (< 2)                                 id-length
+   54:13   warning  Identifier name 's' is too short (< 2)                                 id-length
+   54:47   warning  Identifier name 'c' is too short (< 2)                                 id-length
+   79:40   warning  Identifier name 'b' is too short (< 2)                                 id-length
+   79:56   warning  No magic number: 16                                                    no-magic-numbers
+   87:7    warning  Identifier name 'V' is too short (< 2)                                 id-length
+   88:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  109:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  111:9    warning  Identifier name 'q' is too short (< 2)                                 id-length
+  112:32   warning  Identifier name 'p' is too short (< 2)                                 id-length
+  113:26   warning  Identifier name 'p' is too short (< 2)                                 id-length
+  113:33   warning  This line has 3 statements. Maximum allowed is 1                       max-statements-per-line
+  113:40   warning  Identifier name 'k' is too short (< 2)                                 id-length
+  113:43   warning  Identifier name 't' is too short (< 2)                                 id-length
+  125:56   warning  Identifier name 'c' is too short (< 2)                                 id-length
+  136:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  136:17   warning  Arrow function has a complexity of 11. Maximum allowed is 10           complexity
+  137:9    warning  Identifier name 'p' is too short (< 2)                                 id-length
+  137:27   warning  Identifier name 'x' is too short (< 2)                                 id-length
+  138:57   warning  Identifier name 's' is too short (< 2)                                 id-length
+  138:60   warning  Identifier name 'n' is too short (< 2)                                 id-length
+  139:9    warning  Identifier name 'n' is too short (< 2)                                 id-length
+  139:24   error    Extract this nested ternary operation into an independent statement    sonarjs/no-nested-conditional
+  150:60   error    Extract this nested ternary operation into an independent statement    sonarjs/no-nested-conditional
+  158:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  162:126  warning  Identifier name 'r' is too short (< 2)                                 id-length
+  171:95   warning  Identifier name 't' is too short (< 2)                                 id-length
+  171:100  error    Refactor this code to not use nested template literals                 sonarjs/no-nested-template-literals
+  174:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  186:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  199:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  201:5    error    Extract this nested ternary operation into an independent statement    sonarjs/no-nested-conditional
+  201:19   warning  Identifier name 'p' is too short (< 2)                                 id-length
+  201:92   warning  Identifier name 'n' is too short (< 2)                                 id-length
+  209:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  211:29   warning  Identifier name 'p' is too short (< 2)                                 id-length
+  227:9    warning  Identifier name 's' is too short (< 2)                                 id-length
+  227:25   warning  This line has 2 statements. Maximum allowed is 1                       max-statements-per-line
+  234:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  236:33   warning  Identifier name 'p' is too short (< 2)                                 id-length
+  236:78   warning  Identifier name 's' is too short (< 2)                                 id-length
+  236:81   warning  Identifier name 'n' is too short (< 2)                                 id-length
+  237:12   warning  Identifier name 'n' is too short (< 2)                                 id-length
+  237:15   warning  Identifier name 'v' is too short (< 2)                                 id-length
+  237:18   warning  Identifier name 'q' is too short (< 2)                                 id-length
+  237:34   warning  Identifier name 'k' is too short (< 2)                                 id-length
+  237:37   warning  Identifier name 't' is too short (< 2)                                 id-length
+  237:54   warning  This line has 2 statements. Maximum allowed is 1                       max-statements-per-line
+  244:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  255:13   error    Refactor this code to not use nested template literals                 sonarjs/no-nested-template-literals
+  263:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  267:1    warning  Identifier name 'V' is too short (< 2)                                 id-length
+  286:9    warning  Identifier name 'r' is too short (< 2)                                 id-length
+  288:3    error    Unsafe assignment to innerHTML                                         no-unsanitized/property
+  289:47   warning  Identifier name 'a' is too short (< 2)                                 id-length
+  292:15   warning  This line has 2 statements. Maximum allowed is 1                       max-statements-per-line
+  309:5    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  312:51   warning  Identifier name 'b' is too short (< 2)                                 id-length
+  313:5    warning  Identifier name 'b' is too short (< 2)                                 id-length
+  314:7    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  319:5    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  323:5    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  324:5    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  325:5    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  328:50   warning  Identifier name 'a' is too short (< 2)                                 id-length
+  329:5    warning  Identifier name 'a' is too short (< 2)                                 id-length
+  330:7    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  331:7    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  350:7    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  351:7    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  356:5    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  358:7    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  359:7    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  399:1    warning  Function 'validarVenta' has a complexity of 11. Maximum allowed is 10  complexity
+  415:3    error    Unsafe assignment to innerHTML                                         no-unsanitized/property
+  431:5    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  432:5    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  439:38   warning  Identifier name 'x' is too short (< 2)                                 id-length
+  448:5    error    Unsafe assignment to innerHTML                                         no-unsanitized/property
+  467:50   warning  Identifier name 'x' is too short (< 2)                                 id-length
+  517:54   warning  Identifier name 'b' is too short (< 2)                                 id-length
+  518:7    warning  Identifier name 'b' is too short (< 2)                                 id-length
+  519:9    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  525:53   warning  Identifier name 'b' is too short (< 2)                                 id-length
+  526:7    warning  Identifier name 'b' is too short (< 2)                                 id-length
+  527:9    warning  Identifier name 'S' is too short (< 2)                                 id-length
+  534:5    warning  Identifier name 'S' is too short (< 2)                                 id-length
+
+✖ 93 problems (8 errors, 85 warnings)
+

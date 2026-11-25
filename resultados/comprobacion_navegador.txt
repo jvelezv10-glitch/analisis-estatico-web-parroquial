@@ -1,0 +1,5 @@
+PASA   login_correcto         espera: Hola, Secretaría
+PASA   bloqueo_5_intentos     espera: Cuenta bloqueada temporalmente
+PASA   venta_completa         espera: Stock actualizado: 12 → 10
+PASA   venta_excede_stock     espera: Solo hay 3 unidades de la talla 38
+Código original: tras 5 intentos fallidos + clave correcta -> entra al panel (defecto H02 confirmado)
