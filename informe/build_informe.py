@@ -4,7 +4,7 @@ import fitz
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 E = html.escape
-REPO = "https://github.com/zurdo10105/analisis-estatico-web-parroquial"
+REPO = "https://github.com/jvelezv10-glitch/analisis-estatico-web-parroquial"
 LOGO = os.path.join(os.path.dirname(os.path.dirname(HERE)), "Prototipo_VV_Semana", "logo-uteq.png")
 shutil.copy(LOGO, os.path.join(HERE, "logo-uteq.png"))
 
